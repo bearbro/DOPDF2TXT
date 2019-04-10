@@ -55,7 +55,7 @@ def onePdf2Txt(path,outpath):
             for x in layout:
                 if (isinstance(x, LTTextBoxHorizontal)):
                     with open(outpath, 'a') as f:
-                        results = x.get_text()
+                        results = x.get_text().strip()#strip删除首尾空格和换行
                         # print(results)
                         f.write(results+'\n')
 
