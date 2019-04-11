@@ -11,3 +11,42 @@ pdf转txt
             图片类型pdf                 未处理 使用OCR
             非标准类型pdf（ppt转换而来）  未处理
             非标准类型pdf（其他）        未处理
+
+
+另一方法
+    处理图片pdf
+        OCR，使用 Convert PDF to Text Desktop Software
+    处理文本pdf
+        使用Pdfminer编写python代码
+        或者
+        使用AnyBizSoft PDF Converter
+
+    流程
+        1、使用AnyBizSoft PDF Converter 识别
+            输入
+                所有pdf
+            输出
+                可打开pdf的txt文件
+        2、使用python脚本（selectBlankTxt.py）分离
+            输入
+                上一步产生的txt文件
+            输出
+                空的txt文件对应的pdf，用于OCR
+            判断规则
+                当一行内字符数量小于30时或单词数少于3，该行为空
+                当一页内文字行少于3行，则该页为空白页
+                当一个文件空白页数量大于10页或所占比大于50%时，该文件为空白文件
+
+        3、使用 Convert PDF to Text Desktop Software
+            输入
+                上一步产生的pdf
+            输出
+                对应txt
+
+    备注
+        若自己写OCR可使用
+        tesseract ( OCR庫 命令在python外執行 )
+        pyocr  (tesseract python 庫的接口 )
+        pillow  （p3從python圖像庫PIL分出來的 )
+        imagemagick
+        wand (imagemagick python 庫的接口 )

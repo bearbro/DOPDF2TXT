@@ -59,6 +59,7 @@ def onePdf2Txt(path,outpath):
             # 一般包括LTTextBox, LTFigure, LTImage, LTTextBoxHorizontal 等等 想要获取文本就获得对象的text属性，
             for x in layout:
                 if (isinstance(x, LTTextBoxHorizontal)):
+                # if hasattr(x, "get_text"):
                     with open(outpath, 'a',encoding='UTF-8') as f:
                         results = x.get_text().strip()#strip删除首尾空格和换行
                         # print(results)
@@ -117,6 +118,4 @@ def manyPdfToTxt (fileDir,tarDir):
     writeFail(fileDir + '_log.txt', 'time cost:'+str(int(time_end - time_start))+'s')
 
 if __name__ == "__main__":
-    name='(1,39)'
-    # name = '(1,39)'
-    manyPdfToTxt('./'+name,'./tex_'+name)
+    manyPdfToTxt('./test/1','./test/1_txt')
