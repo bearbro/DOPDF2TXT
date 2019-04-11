@@ -1,17 +1,17 @@
-#!/usr/bin/env python
-# coding:utf8
+# -*- coding: utf-8 -*-
 
 import sys
 import importlib
 import os
 import time
 importlib.reload(sys)
-from pdfminer.pdfparser import PDFParser,PDFDocument,PDFSyntaxError
+import shutil
+from pdfminer.pdfparser import PDFParser,PDFDocument,PDFSyntaxError,PDFEncryptionError,PSEOF
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import PDFPageAggregator
 from pdfminer.layout import LTTextBoxHorizontal,LAParams
 from pdfminer.pdfinterp import PDFTextExtractionNotAllowed
-
+import re
 
 ##记录日志
 def writeFail(logfile,content):
@@ -59,7 +59,7 @@ def onePdf2Txt(path,outpath):
             # 一般包括LTTextBox, LTFigure, LTImage, LTTextBoxHorizontal 等等 想要获取文本就获得对象的text属性，
             for x in layout:
                 if (isinstance(x, LTTextBoxHorizontal)):
-                    with open(outpath, 'a') as f:
+                    with open(outpath, 'a',encoding='UTF-8') as f:
                         results = x.get_text().strip()#strip删除首尾空格和换行
                         # print(results)
                         f.write(results+'\n')
@@ -71,18 +71,13 @@ def dealFail(file,fileDir,message):
     writeFail(fileDir + '_log.txt', content)
 
     filePath = fileDir + '/' + file
-    faildir = fileDir + '_' + message[:50].replace('/', '').replace('\\', '')
+    faildir = fileDir + '_' + re.sub(r'\\|/|:|\*|\?|"|<|>|\|','',message[:50])
     if not os.path.exists(faildir):
         os.mkdir(faildir)
 
     if os.path.exists(faildir+ '/' + file):#已经存在
         return
-    if os.name == 'nt':  # win
-        cmd = 'copy /y "' + filePath + '" "' + faildir + '/' + file + '"'
-    else:
-        # linux
-        cmd = 'cp  -f "' + filePath + '" "' + faildir + '/' + file + '"'
-    os.system(cmd)
+    shutil.copy2(filePath, faildir + '/' + file)
 
 
 
@@ -106,15 +101,16 @@ def manyPdfToTxt (fileDir,tarDir):
                 try:
                     onePdf2Txt(filePath, outPath)
                     if not os.path.exists(outPath):
-                        message='cannot get txt'
+                        message='no txt'
                         dealFail(file, fileDir,message)
                     else:
                         print("finish" + outPath)
-                except Exception as e:
+                except (PDFSyntaxError,PDFEncryptionError,PSEOF,Exception) as e:#Exception
                     message=None
                     if len(e.args) != 0:
                         message= e.args[0]
                     dealFail(file, fileDir,message)
+
 
     time_end = time.time()
     print('time cost', time_end - time_start, 's')
