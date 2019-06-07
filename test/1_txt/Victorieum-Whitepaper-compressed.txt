@@ -1,0 +1,950 @@
+VICTORIEUM
+WHITE PAPER
+www.victorieum.io
+Table of Contents
+Abstract
+Introduction
+Crypto Market
+Fintech Market Analysis
+Cryptocurrency: Worldwide Challenges for users
+Strict Regulations
+Lack of Contextual Info around Transactions
+Lack of full banking service for Cryptocurrencies
+Transaction Speeds
+Customer Service
+Availability of Crypto Assets
+Variety of Crypto products
+Victorieum as a solution
+CIVICTM
+TREZORTM
+Victorieum As An Investment
+Issuing of own deposit products
+Current Account to Corporate and Individual clients
+Saving Accounts
+Fixed term deposit accounts
+Set-up of mutual fund-like products
+Issuing Credit Cards through Mastercard / VISA Principal Members
+Checking Accounts
+Daily liquidity accounts
+Multi-Currency Accounts
+External services
+4
+4
+6
+7
+9
+9
+9
+10
+10
+10
+10
+10
+11
+14
+15
+16
+16
+16
+16
+16
+17
+17
+17
+17
+17
+17
+2
+Table of Contents
+Currency exchange
+Investment Consultancy Services
+Insurance Brokerage
+Cryptocurrency Instant Swap to Fiat
+Crypto Backed Loans
+Basic Privileges of Victorieum token holders
+Risk Management
+Features of Victorieum
+ICO Details
+Financial Projections
+Roadmap
+Meet The Team
+Conclusion
+References
+17
+17
+18
+18
+18
+19
+20
+20
+21
+22
+23
+24
+28
+29
+3
+Abstract
+This paper describes a revolutionary combination of the Ethereum Blockchain 
+technology and e-commerce & payment ecosystem. The ARAW token and its unique 
+infrastructure offers e-commerce and service-providing companies to standardise 
+reward programmes as well as expose the regular people to the cryptocurrency 
+economy. Our solution is completely transparent and strives to make cryptocurrency 
+accessible to the regular people. From the customer perspective, there will be no 
+habitual change - for example, one of our offerings include the Araw Touch & Pay card 
+to be used in tandem with every-day micropayments.
+The main goal of the ARAW token is to build the Decentralised Payment Ecosystem 
+for E-Commerce to increase the Blockchain adoption for regular people across the 
+world. The ARAW token ecosystem offers unified reward system which any service-
+providing entities can partake in. This allows virtually any company to further incentive 
+consumption of their service as they provide real value via token distribution and 
+expand their previously limited market of loyalty-reward consumers to the next level.
+The paper focuses on cutting-edge technologies that support the e-commerce & 
+payment ecosystem including ‘Araw Pay for Online Payments’, ‘Open API Platform’, ‘Araw 
+Touch & Pay Card’, ‘Unified Reward System’, ‘Peer-to-Peer Transfer’, ‘Araw Mobile Wallet’, 
+and ‘Cryptocurrency Exchanges Integration’.
+Introduction
+As the Global  Economy   rises with the advances  in technology, most of them can 
+be witnessed in the field of IT   & Networking.   Blockchain, an  innovative   technology 
+that is taking   over   the  industries rapidly is one such advance. With the Blockchain 
+technology at play,
+4
+Cryptocurrencies, Smart Contracts & Decentralized Apps are becoming popular, both 
+commercially and at Personal Level. These blockchain applications are providing the 
+individuals with an opportunity to trade, invest, or simply enjoy the seamless & ultra-
+secure transactions over the internet. However, it is not all happy on the green on 
+the other side. Cryptocurrencies, while offering the power of anonymity, speed, and 
+ease of transactions, are posing challenges to various governments and institutions. 
+While cryptocurrencies are inherently robust and free from any central control, they 
+theoretically can be used for illegal activities as well. In such cases, the origin of the 
+currency and people involved cannot be traced. Thus, many nations and banks are 
+against the use of Cryptocurrencies, and willing to ban them entirely. For instance, The 
+High-handed approach taken by the Chinese government to prohibit all the ‘Over-
+the-counter’ crypto exchanges has created a plethora of challenges, obstacles, and 
+inconveniences related to investments in Cryptocurrencies, analytics & related news in 
+the Chinese region. It has been observed that the Chinese Blockchain & Crypto-investors 
+face three significant problems. To name them, they are, [1]Delayed& Misinformation 
+broadcasted from China regarding cryptocurrencies, Blockchain investments & industry 
+trends, [2] Middle-aged and seasoned Chinese investors are interested in purchasing & 
+investing in various cryptocurrencies. However, due to a ban in China, they are unable 
+to make trade transactions related to Blockchain currencies. [3] The third challenge 
+that this ban poses is the creation of an influential  Chinese  investors community who 
+are  passionate about    Blockchain    technology & cryptocurrencies. Similar is the case 
+with Indian Ecosystem. In India, cryptocurrencies are neither legal nor illegal, and they 
+are unregulated. Even then, crypto investors are harassed by the authorities and tax 
+department. It is being anticipated that India might ban cryptocurrencies as well.  To 
+block users from trading/using cryptocurrencies, governments usually flag the banking 
+channels of a user (Credit/debit cards, Net-Banking, etc.).
+5
+It is transparent that due to strict regulations and a complete ban on usage of 
+cryptocurrencies, those passionate about it, and willing to make a fair & transparent 
+investment suffer along with the lost opportunity. However, we believe that there can be 
+a ‘Middle-ground’ for the said challenge. There is a solution for cryptocurrency usage 
+through which transparent investors will be able to make use of cryptocurrencies, 
+and security concerns will be kept under check by the system. Victorieum is such a 
+platform that aims to create an entirely separate ‘Crypto Banking System.’ Victorieum’s 
+banking channels will be independent of any external influence and provide a secure 
+cryptocurrency ecosystem for its users. Let us see how Victorieum is solving this global 
+problem and how efficient is its operational model.
+Crypto Market
+The Cryptocurrency market is continually gaining 
+traction ever since giants like Ethereum, Ripple, and 
+Bitcoin made their mark in the worldwide economy. 
+This opens a window of opportunities for the 
+investors looking to grow their funds by investing 
+in the cryptomarket. However, the complexities of 
+the underlying technology end up overwhelming 
+the new enthusiasts. The costs of investments 
+are volatile and always dependent on the ever-
+changing demand of the coins. The market lacks 
+a conventional structure that solves all investment 
+requirements by bridging the financial services 
+along with the blockchain technology.
+A lot of investors and businesses still hold their faith in the banking systems that return 
+low rates of interests at a small risk model. Consequently, banking sectors are slowed 
+down due to extended handshaking protocols and several old school verification 
+processes. Bringing in blockchain technology in this environment will guarantee faster 
+resource access and allocation. This will, in turn, reduce the cost and improve the 
+returns of the investors.
+Victorieum has come up with an offshore banking system to create the necessary 
+relationship between the banking and cryptocurrency environment. The integration 
+with platforms like TrezorTM and CivicTMprovide the required security to make concrete 
+and non-repudiable transactions using various currencies.
+Several countries have made hindrances in trading with cryptocurrencies and 
+prohibited the use of bank or wire transfers to invest in any crypto-venture. To enable 
+new investors belonging to these countries, the offshore banking system will introduce 
+new opportunities to make worldwide investments by the click of a button. These 
+services will facilitate clients’ access to finance and different worldwide investments 
+and help to trade, deposit, withdraw to any bank or use our card to spend, with nominal 
+fees.
+6
+High-interest loans are one of the most distressing aspects of the banking sector. 
+This ends up displeasing new borrowers and businesses. To tackle the situation, the 
+crypto backed loans are here to provide as low as 14% interests per annum. The client 
+is conveniently saved from the bureaucracies and loads of paperwork involved in the 
+traditional loaning systems. Using Victorieum, the borrower goes through a simple 4 
+step process to approve their loan within 24 hours.
+Another complication faced by crypto investors is the lack of a well-structured exchange 
+platform. Using the existing exchange systems investors face challenges while making 
+reliable exchanges between different cryptocurrencies or instating fiat currencies 
+into cryptocurrencies and vice versa. This means the Victorieum exchange market is a 
+stable, secure, ubiquitous, and transparent platform to provide instant SWAP between 
+fiat currencies like USD, EURO, GBP and the major digital currencies.
+Fintech Market Analysis
+Fintech Corporations and Startups have been witnessing a constant funding since 2009 
+(Capgemini Report). According to the report, Fintech startups have raised approximately 
+USD 110 Billion from 2009 to 2017. The World Fintech report observed two crucial competitive 
+keys for the industrial advantage. They are namely 1) Enhanced Customer Experience, 
+and 2) Fast & Secure agile services. However, 76 percent of the participant companies 
+also reported ‘Development & Improvisation of the existing financial products’ as a key 
+to their competitive edge.
+A comprehensive report by Price Waterhouse Cooper titled ‘Redrawing the Lines: 
+Fintech’s growing influence on Financial Services’ states that;
+ • 82 Percent of the Fintech incumbents anticipate a growth in partnerships by 
+2021 and 2023.
+ • The annual projected return for Fintech corps will average out to be 20 percent.
+77 Percent of the Fintech companies will adopt Blockchain technology, either in 
+their products or in their processes.
+•
+7
+According to the report, financial institutions are realizing the disruptive potential of 
+Fintech which is motivating them to innovate and improvise. For instance, 30 percent of 
+the global Fintech players are incorporating Artificial Intelligence to either automate 
+their processes, or aid in risk management.
+•
+For this industry, challenges are as follows;
+ • Data storage, privacy protection, and information security is the major 
+regulatory barrier hindering 
+innovation. This has been reported by 54 percent of the incumbent participants 
+of the report.
+ • Partnership with the traditional financial institutions in the ecosystem as they 
+lack agility and often fail to meet the customer’s expectations.
+However, the Fintech industry promises a huge potential yet to be released as it is less 
+of a service provider, and more of an ‘enabler’ to simplify finances for the common 
+people. For instance, an increasing number of mobile devices can become a payments 
+ecosystem worth USD 3 Trillion. Financial decision making will become another rapidly 
+expanding domain as AI and Big Data technologies fuse with Fintech.
+Fintech companies 
+anticpate a growth in 
+partnerships by 2012 
+and 2013
+The annual projected 
+return for Fintech 
+corps
+Fintech companies 
+will adopt Blockchain 
+technology, either in 
+their products in their 
+processes
+8
+Cryptocurrency:
+Worldwide Challenges for users
+Cryptocurrency users & investors face the following challenges worldwide;
+Strict Regulations
+There are two leagues of nations on the world map when it comes to 
+Cryptocurrencies. First ones that are in favor of the technology (which are few in 
+number), and the second league constitutes a group of  nations which are not in 
+favor of the technology (Majority of them). While blockchain & crypto transaction 
+platforms can be accessed from anywhere in the world, it depends upon the 
+location of the user as to whether he/she can utilize the technology. As of now, 
+non-standard regulations and low limits are a significant challenge.
+Lack of Contextual Info around Transactions
+Regular payment modes always have a mechanism to reflect the metadata 
+or ‘contextual information’ regarding a particular transaction. This metadata 
+usually describes the origin of the transaction, end purpose of the transaction 
+itself. However, this is not the case with cryptocurrency payments. A payment 
+merchant never knows where the transaction originated, where it is directed 
+to, and what is the purpose for it. This is the major concern for governments 
+and regulatory authorities globally. This particular ‘anonymous’ attribute of the 
+cryptocurrencies makes them prone to illegal activities. This is another crypto 
+challenge that needs to be addressed.
+9
+Lack of full banking service for Cryptocurrencies
+Currently, there are only a handful of platforms that aim to provide full 
+banking service to the crypto users. Services such as credit/debit cards, funds 
+management, financial support, loans, Multi-currency accounts, Forex, asset 
+management, Investment Consultancy, Daily liquidity accounts, etc. are not 
+altogether seen in a single platform. These facilities are deemed as a must for 
+any banking ecosystem, especially cryptocurrencies when they are proliferating.
+Transaction Speeds
+Speed is another issue that Crypto users face on a daily basis. The complexities of 
+the transaction mechanism end up compromising with the rate of transactions. 
+This, however, is also affected by the intermediary ‘Miners’ that maintain the 
+transactions on a public ledger. The purchases are also slowed down by the 
+handshaking process among all the intermediary nodes.
+Customer Service
+The leading blockchain giants of the industry fail to serve their stakeholders 
+regarding their queries or step-by-step guidance throughout the process. Many 
+enthused investor are overwhelmed by the complexities of technology and 
+are desperately looking for advice to help them with their investments. This, in 
+turn, effects the ROIs for the enterprise. By creating a procedural system with 
+guiding systems that answer user query, an enterprise can ensure traction at 
+their platform.
+Availability of Crypto Assets
+The world is still unsure to classify crypto coins as assets. This is usually because of 
+the volatility in the industry. The crypto industry lacks a defined infrastructure to 
+implement conventional methods of savings such as term deposits or a savings 
+account. Amalgamating the banking sector into a blockchain environment will 
+bring the required stability to the system. This will also give conventional investors 
+an acquainted mode of savings.
+Variety of Crypto products
+The market is saturated with the redundant business models and transactional 
+systems. This has left little scope for the upcoming new ventures looking to make a 
+mark in the crypto industry. The crypto market requires a set of variety concerning 
+applications of blockchain and how it will affect other business sectors. A wide 
+range of possibilities is yet to be discovered in the crypto market.
+10
+Victorieum as a solution
+The Victorieum Offshore bank supports a variety of cryptocurrencies hence enabling 
+the user to handle seamlessly, and trade in different available currencies. This has 
+conveniently helped them to maintain a business portfolio and diversify their crypto 
+assets.
+A Victorieum user enjoys full bank account details where International Bank Account 
+Number (IBAN) and Bank Identifier Code (BIC) are used as an account number and sort 
+code written in a standard, internationally recognized format. They will help to process 
+international payments automatically, making them faster, safer and more cost-
+effective.
+Swift Transfers MT103: MT103 is a swift payment message type/format used for cash 
+transfer specifically for cross-border/international wire transfer. The technology 
+facilitates instant SWAP between cryptocurrencies and fiat along with the support of 
+different fiat currencies including USD, EURO, GBP, etc.
+Victorieum provides customer service in 12 languages and is available 24/7 to our 
+customers. The users are also rewarded with free victorieum debit & credit cards for 
+ICO investors. These cards are available in three variants that include silver, gold, and 
+platinum.
+Victorieum expossesses the essential tools for the development of an exchange that is 
+capable of better meeting the needs of its users and providing the trust and scalability 
+desired by the market Performance.
+The Victorieumex also delivers the 
+following features:
+1 The Victorieum exchange will be connected to Victorieum bank. As a result, the 
+instate fiat deposits and withdraws will be smooth and fast.
+2 The team is highly experienced in marketing and managing which will guarantee 
+huge volume of trading.
+3 Victorieum has an experienced web development team that is ready to implement 
+the best exchange software and develop app-related transaction services using 
+the blockchain network.
+4 Platforms like TrezorTM and CivicTM are integrated into the exchange as well as other 
+similar smart technologies are utilized to provide clients with the highest guarantee 
+of security that is available on the market.
+11
+5 Fiat and Crypto Swaps: Instant swaps between crypto and fiat will be implemented. 
+The exchange  will start with USD and EUR, with more to follow as we move along.
+6 Leading-edge Software: Victorieum software uses industry-leading technology, with 
+features that no other exchange possesses.
+7 Trades with Discount: Victorieum Token Holders will receive significant discounts on 
+trades. Depending on the number of Victorieum Token they hold, this could result in 
+up to 90% discounts on trades.
+8 Referral Program: the referral program will pay 30% of user fees to whoever is 
+indicated.
+9 Personal managers to Vip clients deposit and withdraw above US$100000.
+10 Sms and emails to clients about their favorite coins with live prices.
+Traditional Banks Vs. Victorieum Bank
+12
+Victorieum Vs. Other Cryptobanks
+13
+CIVICTM
+Civic’s provide a novelty in identity verification for blockchain technology that creates 
+real time customer authorizations. The environment facilitates low-cost, highly resilient 
+security. Civic creates on-demand access to User identification and verification by 
+utilizing blockchain services.
+The Civic platform aims to create digital identities for every blockchain user so that 
+they can utilize encrypted communications to make secured and private transactions. 
+This enhances the security and reliability of the blockchain environment and create 
+more traction for new investors.
+This includes the following features:
+Secure ID Platform
+Secure ID Platform
+Civic Secure ID creates access keys for your user authentication. This is done without the 
+use of any username, password, third-party authenticator, or physical hardware token. 
+The services are made possible by decentralized architecture with the blockchain and 
+biometrics on the mobile device.
+Reusable KYC
+Civic provides easy-to-use, reliable, and blockchain-based tool that requires more 
+than the conventional verification services. The global platform enables scanning 
+and verification of user document, like licenses, passport, utility bills, and Accredited 
+Investor Checks.
+ID Theft Protection
+The Civic platform delivers secured methodologies to ensure theft protection. Te 
+services include credit monitoring alerts provided through an integration TransUnion. 
+The transactions are automatedly monitored and responds to suspicious activities. 
+The credit bureau is used to audit standard credit applications where the users are 
+regularly notified with monitoring alerts provided with the help of TransUnion. The 
+system sends prompt notifications by making preliminary checks to identify suspicious 
+activities and track malicious users. The credit bureau alerts enable users to take control 
+of their identity.
+14
+TREZORTM
+Trezor is among the most reliable and ubiquitous hardware wallets around the globe. 
+It offers services like password management and cryptocurrency security without 
+compromising with the usability of the platform. Trezor provides the following features:
+Offline Information Storage
+The online data is prone to theft or security breach. Similarly, a significant issue occurs 
+when online exchanges and wallet providers disappear. This means the data is not 
+reliably stored on such online platforms.
+Going offline is an effective yet simplistic solution to this problem. Trezor’s hardware 
+wallet provides a recovery seed to secure the Trezor hardware wallet. This wallet is the 
+safest way to manage and transact your cryptocurrencies.
+In a case where user’s device is stolen, damaged or lost, they can conveniently use 
+the recovery seeds to recover the access to the user wallet, passwords and other data 
+associated with it.
+The recovery seed is a 12 to 24 words long string which makes the entire wallet accessible 
+at all times.
+Cross Compatibility
+Th recovery seeds issued by Trezor are created by SatoshiLabs. These seeds follow a 
+specific standard, widely used and compatible with many wallet apps.
+15
+Victorieum As An Investment
+Victorieum platform provides many banking 
+services including banking, bank cards, crypto 
+backed 
+loans, crypto exchange, passive 
+income program for investors, and many more. 
+Both E-wallet and a C-wallet will support the 
+online trading environment. The E-wallet will 
+be used for making banking transactions or 
+peer to peer payments. These payments will 
+be supported by verification code to be sent 
+via phone call, SMS, or Email. On the other 
+hand, the C-wallet provides support to the 
+user to handle different cryptocurrencies 
+and make instant transactions.
+Issuing of own deposit products
+The platform delivers easily accessible deposit products that can be made in 
+almost no time. The user gets to choose from a variety of deposit type according 
+to their needs concerning savings deposits or liquidity.
+Current Account to Corporate and Individual clients
+A current account is made by an individual or corporate organization to keep 
+funds available at all points. The user is capable of depositing, withdrawing or 
+transferring money at any instance.
+Saving Accounts
+Similar to a current account the savings account enables the user to deposit 
+and withdraw money at all times. However, the user is constructed in terms of 
+frequency of withdrawal. Since the account is made with the intentions of creating 
+subsequent savings, the user gets comparatively higher rates of interests on their 
+deposits.
+Fixed term deposit accounts
+A fixed term deposit account is a contract agreement between the client and the 
+bank. The client creates a deposit of a certain amount for a set time where the 
+bank is obligated to pay out the interest in a bounded time.
+16
+Set-up of mutual fund-like products
+Mutual-funds are widely used investment alternative used by new investors who 
+are unsure of their investment needs and choices. A user deposits their funds to 
+a skilled investor that makes well-informed decision to gain profit on the given 
+investment. This is definitely a safer alternative to the direct investment in stocks 
+and bonds.
+Issuing Credit Cards through Mastercard / VISA Principal Members
+Users of the platform will be able to get Mastercard / VISA credit or debit card 
+and use them anywhere in the world. The required verification will be simplified 
+using the platform and conducted through secure processing and validation.
+Checking Accounts
+The user is able to access their account information and view your transaction 
+history.
+Daily liquidity accounts
+The platform also enables the users to maintain liquidity. The user is capable of 
+making payments and store money at their disposal.
+Multi-Currency Accounts
+With the increase in crypto assets, it is essential to maintain a multi-currency 
+account that lets you trade in different currencies either crypto or fiat.
+External services
+Services like Forex enable the investors to make foreign trades. Facilities like Forex 
+are available through other providers (e.g., through an out-sourced FX provider 
+license in Vanuatu).
+Currency exchange
+MT103 is a swift payment message type/format used for cash transfer specifically 
+for cross-border/ international wire transfer. Other currency exchanges, either fiat 
+or encrypted currencies are also available on the Victorieum exchange platform.
+Investment Consultancy Services
+Victorieum also gives step by step guidance to users to reduce the procedural 
+complexities and generate confidence amongst the new coming investors. This 
+means the user can now learn as they are on their way of investment growth.
+history.
+17
+Insurance Brokerage
+The user enjoys procedural guidance to issue loans and insurances that are most 
+suited to their requirements. Investors and borrowers get service support as they 
+are granting or applying for new funds..
+Cryptocurrency Instant Swap to Fiat
+Users are able to maintain liquidity at all points. They will always enjoy the liberty 
+of converting their crypto assets to fiat currencies.
+Crypto Backed Loans
+The users will be able to lend money from the platform through a four-step process. 
+Users of Victorieum platform will be saved from the hassles of bureaucracy and 
+can avail a loan within 24 hours.
+18
+Basic Privileges of Victorieum token holders;
+Victorieum token holders will be entitled to the following privileges provided by the 
+platform;
+• Bonus on token purchase from 15 percent to a 
+maximum of 40 percent during the ICO rounds.
+ • Savings account and Daily liquidity accounts.
+ • Dedicated manager for deposits equaling or 
+exceeding USD 100,000.
+ • Exclusive trading opportunities between fiat & 
+non-fiat currencies via Victorieumex platform. 
+ • Full one-time KYC to avail all the Victorieum 
+facilities.
+ • Secure, fast, and robust platform ensuring the 
+highest level of service with safety.
+ • Users can avail crypto-backed 
+insurance coverages.
+loans and
+Free bank cards:
+Silver , Gold , Platinum depending on how many tokens the users hold.
+•
+• Number of tokens required to obtain  the status: 
+10000 VTM
+15% discount for: Exchange and Money Transfer
+ • Cash Withdrawal
+ • Fees for Interbank
+ • Transfers - 0,5% Cashback, +0,5% Time Deposit
+• Number of tokens required to obtain the status: 
+100000 VTM
+ • 30% discount for: Exchange and Money Transfer
+ • Cash Withdrawal
+ • Fees for Interbank
+ • Transfers - 1% Cashback, +1,2% Time Deposit
+• Number of tokens required to obtain the status: 
+200000 VTM
+ • 50% discount for: Exchange and Money Transfer
+ • Cash Withdrawal
+ • Fees for Interbank
+ • Transfers - 1,5% Cashback, +1,5% Time Deposit
+19
+Risk Management
+For the structure of Loans, the volatility of the market is compromised by an eventual 
+balancing of resources. In a situation where the prices of collateral crypto coins go 
+down, the borrowers are expected to increase the collateral.
+To their comfort, we will also allow a specific time slot so that they can make up for 
+the differences. If they fail to do so, we will be compelled to sell the coins to avoid any 
+further loss.
+In case the price of Bitcoin or Ethereum goes down, the borrower fills in more 
+coins as collateral.
+In a case cryptocurrency appreciate in value, the Victorieum bank increases 
+the loan limit.
+•
+•
+Features of Victorieum
+Victorieum coin amalgamates the banking sector with the blockchain technology. It 
+gives a reliable, secure, and consistent system to meet all banking needs at the comfort 
+of their home.
+It’s regulated offshore bank, and regulated exchange delivers high security giving the 
+clients access to finance and different worldwide investments. They can trade, deposit, 
+withdraw to any bank or to Mastercard/Visa card to spend, with underlying fees.
+The Victorieum platform offers loan at 14% that can be validated within 24 hours. Availing 
+a loan involves the following four steps:
+Step 1: The Client transfers Crypto Assets to the Victorieum Bank Wallet. Once the 
+relevant blockchain confirmations for the respective crypto asset are received.
+Step 2: The Client Receives Instant Loan in USD or EURO, the Loan limit is instantly 
+available by bank transfer to his account or to client Victorieum bank account which is 
+connected to Victorieum bank card. The clients can choose the most convenient way 
+to use their cash, as well as the currencies in which they would like to receive the funds. 
+The loan limit is based on the market value of the crypto assets in the Victorieum bank 
+Wallet. Should the cryptocurrency appreciate in value, the Victorieum bank increases 
+the loan limit.
+Step 3: The Client Repays Loan their flexible loans via bank transfer to Victorieum bank 
+account.
+Step 4: If the crypto assets in the wallet meet the required limits of the outstanding loan 
+balance, clients can withdraw part or all exceeding amount at any given time. Once the 
+loan is fully repaid, clients can withdraw all the crypto assets in the wallet.
+20
+ICO Details
+The Initial coin offering will begin by creating giving out in total of 1 billion coins. The 
+cost of the offering will be as follows:
+The token distribution for the total of 1 billion tokens will be as follows:
+)
+s
+n
+o
+i
+l
+l
+i
+M
+n
+I
+(
+n
+o
+i
+t
+u
+b
+i
+r
+t
+s
+i
+D
+n
+e
+k
+o
+T
+800
+700
+600
+500
+400
+300
+200
+100
+0
+765
+Sales & Bonuses
+Bounty & Marketing
+Reserved for Development
+Team
+Advisors
+Founder & Co-Founder
+Hard Cap (31 Million)
+Soft Cap (5 Million)
+75
+35
+50
+25
+50
+76.5%
+3.5%
+7.5%
+5.0%
+2.5%
+5.0%
+Token Distribution (In Percentage)
+31
+Hard
+Cap
+5
+Soft
+Cap
+21
+22
+Accepted Currencies:
+Financial Projections
+Expenses Forecast (5 Year Plan)
+Revenue Forecast (5 Year Plan)
+Bitcoin
+Ethereum
+Restricted 
+countries: USA
+Expenditure ($)
+2018
+2019
+2020
+2021
+2022
+Marketing
+200,000
+1,530,500
+6,010,300
+13,050,000
+32,000,000
+Licenses
+71,000
+10,000,000
+2,850,550
+1,175,300
+571,000
+Operations
+50,000
+1,635,000
+3,388,000
+10,125,000
+29,080,000
+Fee
+100,000
+483,000
+1,932,000
+8,626,000
+18,700,800
+Interest
+0
+0
+510,000
+1,700,400
+9,044,000
+Taxes
+0
+0
+886,000
+6,342,225
+13,100,300
+Audit
+0
+0
+174,000
+412,000
+751,339
+Blockchain  
+Development
+68,800
+14,270,000
+11,080,500
+7,451,000
+12,050,765
+Total Expenses ($)
+489,800
+27,918,500
+26,831,350
+48,881,925
+115,298,204
+Revenue ($)
+2018
+2019
+2020
+2021
+2022
+Fee
+0
+3,212,000
+28,750,600
+58,436,200
+123,727,040
+Consulting
+0
+455,000
+2,127,000
+5,187,550
+10,375,100
+Brokerage
+0
+918,200
+5,566,200
+11,689,020
+39,742,668
+ROI (BE)
+0
+0
+3,223,500
+8,219,925
+24,988,572
+Transactions
+0
+336,277
+2,723,843
+3,073,865
+4,525,863
+Acquisitions
+0
+35,600
+370,240
+3,184,064
+7,004,940
+Total Revenue ($)
+0
+4,957,077
+42,761,383
+89,790,624
+210,364,183
+Roadmap
+The implementation phase will unfold according to the following timeline:
+23
+Meet The Team
+Meshal Alenezi (CEO & Founder)
+An experienced self-employed professional with a demonstrated 
+history of working successfully in the financial services industry. 
+Meshal 
+is an 
+investment services professional with years 
+of experience in Private Equity investments, along with vast 
+experience in Managing private investments for VIPs in different 
+sectors of finance industry. Skilled in Negotiation, Customer 
+Service, Sales, Strategic Planning, and Marketing Strategy, 
+Meshal is a highly sought-after entrepreneur holding a Bachelor of 
+Business Administration - BBA focused in Business Administration 
+and Management, Moscow State University of Economics. MBA in 
+finance and financial services, University of Liverpool. Currently, 
+Meshal is looking after Private investment from GCC Countries in 
+the Kazan City. Connect with him on LinkedIn here
+Pavel Kazimirenko (IT Manager)
+Pavel is a Professional Software Developer and the CEO of IT Top 
+Group. He holds cutting edge skills and experience in Enterprise 
+cyber-security and Blockchain technology. Connect with him 
+over LinkedIn.
+Anton Polevich (Marketing Manager)
+Anton has been active in the IT sphere since 2011, well known for 
+launching 4 startups and 2 traditional businesses. As a Marketing 
+Manager, he has launched about 100 web and 20 Marketing 
+projects. In 2016, he became the CMO of the international IT 
+company Mediapark. In 2017 he took over as the COO of the 
+project Travelchain.io.
+Maksim Halinouski (Technical Project Manager)
+He is currently the COO at SociumTrase. His responsibilities 
+include managing teams of developers for outsourced projects 
+and development of in-house and client applications. Maksim 
+is passionate about creating unique and useful experiences for 
+our users and clients. His mission and philosophy are to create 
+value for the clients. He holds specialist experience in web 
+development, Mobile Development, Game development, and 
+Software Project Management. He can be reached via LinkedIn.
+24
+Saket Singh (Social Media & Channels Manager)
+Saket started SixPL, a digital marketing agency, in July 2013. 
+Today, the company has two branches in Delhi NCR and has 
+served more than 580 clients. My key responsibilities include 
+driving capital efficiency, expanding footprints, and ensuring the 
+quality of service delivery. Prior to founding SixPL, I worked in HR 
+Consulting, BFSI and Education Sector. 
+I am also a crypto enthusiast and have helped many organizations 
+raise funds through ICO and build groundbreaking projects. He 
+has managed to generate over USD 30 Million in sales using Digital 
+Marketing as his passion. He can be reached over LinkedIn.
+Antoun Toubia (Financial Advisor)
+Antoun is an investment services professional with years of 
+experience in Private Equity investments, venture capital and 
+Blockchain Technology. He is currently building a new type of 
+Private Equity Portfolio Fund based on the Blockchain technology 
+and has already secured several project agreements including 
+government backed contracts. Through his extensive network, he 
+is bringing high value projects to the STO market. Antoun brings 
+expertise in JV negotiations, acquisitions, ICOs and venture 
+financing deals. His portfolio currently 
+includes diversified 
+projects across several markets including Fintech, Green Energy, 
+medical technology, industrial technology and IT.
+Maroun Mourani (Sales & Marketing Advisor)
+Maroun is the Regional Manager at United Capital Investment 
+S.A. His expertise lies in the field of international Business 
+development and Sales, Software and hardware expertise, 
+technical Sales, pre-sales, project management, software 
+architecture and design, building, programming, development 
+and deployment of applications, website and complex portals as 
+well as defense C4I and Tactical deployment. He is also an expert 
+in commercial, military, defense technologies for the Middle East 
+and African market. 
+Maroun’s Fintech skills include ICO investors, Project Management, 
+PR and Marketing, Banner Ads, Business Plan Consulting, White 
+Paper Assistance, Due Diligence Report, Legal Services, ICO 
+Landing Page Creation, ICO Participant Accounts, ICO Token 
+Issuance, ICO Customer Service, Token Exchange Listing on 
+several exchanges, and Post-ICO blockchain engineering.
+25
+Yaser Ali Mohra
+(Blockchain Advisor & Project Management)
+Yaser is the Co-founder of DIBS.ae & Expert on decentralized 
+Blockchain technology and Regional Manager at United Capital 
+Investments S.A. He is a Creator, Dreamer, Serial entrepreneur, 
+this half of the Mohra Brothers (read The Blockchain Brothers) is 
+also the Co-Founder of Dubai International Blockchain Summit 
+the region’s flagship blockchain event. 
+Yaser is the Managing Director of ECS Network which specializes 
+in the design, consultancy, and advisory services for blockchain 
+and crypto technology projects. He serves as a board member 
+for several successful ICOs and other Blockchain initiatives. 
+Yaser began exploring blockchain in 2011 and became very active 
+within the community. He currently spends his days advising high 
+profile investors on ICOs with potential and mentoring several 
+entrepreneurs and startups. A Coventry University graduate with 
+a Masters in Computer Science, Yaser is an avid sports enthusiast 
+and active golfer.
+Paresh Masani (Advisor & Blockchain Security Expert)
+Paresh is a Gold Medalist and obtained a master’s Degree in 
+Computer Science from one of the most prestigious universities 
+in India, National Institute of Technology, Trichy. Previously he 
+was an Executive Director of top investment banks like Goldman 
+Sachs and Barclays Bank. Paresh is an expert in running ICO end-
+to-end contributing in blockchain architecture, vision & strategy, 
+and overall platform infrastructure, content writing, marketing, 
+and developing the community through Airdrop and bounty 
+campaigns.
+He demonstrates the solid understanding of FinTech business and 
+technology and has a proven track record of running successful 
+businesses. He specializes in technology and has more than 10 
+years’ experience as technical lead and full-stack developer for 
+some of the critical banking and finance projects. Paresh is also 
+an expert in security, cryptography, blockchain technology, and 
+end-to-end system development.
+Paresh will play a significant role in Victorieum mostly due to 
+his excellent knowledge and experience in development of the 
+community, security and blockchain technology.
+26
+Naviin Kapoor (Blockchain & Banking Advisor)
+Naviin Kapoor, a blockchain consultant and a business 
+transformation leader with more than twelve years of experience 
+in project management and business analysis and more than 
+one year of experience in ethereum, bitcoin, hyperledger, EOS, 
+consensus protocol and distributed/shared ledger tecnology. 
+He has also attained various industry certifications such as PMP, 
+CBAP, ITIL & Professional Scrum Master Level 1.
+He had worked on various banking transformation projects - 
+“sustainable and disruption”, which were initiated in various 
+domains such as Retail Banking, Cash Management, Integrated 
+Liquidity Management (ILM), Corporate Banking, Asset & Wealth 
+Management, Financial Messaging, Regulatory Sanctions 
+Filtering and Local and International Payment Systems. His 
+proficiency 
+in handling Project Life-Cycle Management, 
+requirement elicitation, feasibility study, planning, scheduling, 
+tracking, assessment/design, testing, change management and 
+implementation support in both Waterfall and Agile environment 
+is outstanding. He has good understanding of cryptography, 
+including asymmetric (pub/priv key), symmetric, hash functions, 
+encryption/signatures. Moreover, he is detail-oriented and skilled 
+in the analysis, design and re-engineering of system applications 
+and business process improvement. 
+Currently, Naviin is working on digital transformation projects 
+and providing consultation on blockchain, cryptocurrencies and 
+ICOs.
+Faisal Shehzad Khan (Blockchain & Banking Advisor)
+Faisal is a seasoned IT professional with 17 years of experience 
+in Banking solutions especially   domain. Solution Evangelist, 
+Goal Oriented, Self-Motivating, Versatile Techno Functional 
+IT Management Executive with a process-driven and result-
+focused approach. He Possesses an in-depth understanding of 
+enterprise solutions & digital transformation. Excellent leadership, 
+negotiation and presentation skills.
+Faisal is passionate about innovation, alternate channels, open 
+banking, enterprise strategy, to keep the enterprise “Safe” and 
+“Running” with hunger to learn and progress.
+27
+Giovanni Casagranden (Advisor & Growth Hacker)
+Giovanni is a notable blockchain industry figurehead, growth 
+hacker and he is a co-founder of Black Marketing Guru, a digital 
+marketing and advertising startup based in Rimini, Italy. He is 
+also an Ico bench Top20 Expert and blog editor also advisor in a 
+lot of projects. Connect with him via LinkedIn.
+Giacomo Arcaro (Advisor)
+Giacomo is IcoBench Expert, co-founder of Black-Marketing Guru, 
+one of the most important European Growth Hackers featured 
+on the Financial Times, IlSole24Ore and Los Angeles Times
+https://www.linkedin.com/in/giacomo-arcaro-crypto/
+Conclusion
+The Victorieum offshore bank is set to revolutionize both banking and cryptocurrency 
+sector. The reliability of bank deposits along with security of the blockchain will bring 
+the required harmony in the field of crypto-investments. Users will now be able to create 
+digital funds and online deposits in no time. This will also enable to avail them loans at 
+low interest rates. The offshore banking will also facilitate users to create current, term 
+deposit, savings account.
+The integration with platforms like TrezorTM and CivicTM provides the required security to 
+make concrete and non-repudiable transactions using various currencies.  Victorieum’s 
+banking channels will be independent of any external influence and provide a secure 
+cryptocurrency ecosystem for its users. Victorieumex possesses the essential tools for 
+the development of an exchange that is capable of better meeting the needs of its users 
+and providing the trust and scalability desired by the market Performance. Victorieum 
+proudly stands on the shoulders of those prototypes. Victorieum is a leap forward, 
+providing a holistic solution that combines on- and off-chain services and protocols, 
+now purpose-built for utility and the necessary replacement of end-of-life, traditionally 
+centralized architectures. It is a revolution: Blockchain reimagined and evolved.
+28
+References
+• Unknown (2018). Locational Banking Statistics. [Online]. Retrieved from: 
+https://www.bis.org/statistics/bankstats.htm
+ • BIS (2018). Global Coverage of BIS Locational Banking Statistics. [Online]. 
+RetrivedFrom: https://www.bis.org/statistics/lbs_globalcoverage.pdf
+ • Taggart, M., (2018). Banks Have Found A New Product: Cryptocurrencies. [Online]. 
+Retrieved 
+from: https://www.forbes.com/sites/forbestechcouncil/2018/04/11/
+banks-have-found-a-new-product-cryptocurrencies/#6cfea7e24dcc
+ • RaboBank (2018). Cryptocurrency or the future of payments. [Online]. Retrieved 
+F rom :h t tp s : //www. raboban k .com /en /abou t- raboban k /cu s tome r-focu s /
+innovation/tech-trends/articles/cryptocurrency-or-the-future-of-payments.
+html
+ • Mai, H., (2018). Why Would We Use Crypto Euros?.[Online]. Retrieved Home: https://
+www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000462095.PDF
+www.t.me/joinchat/HdDbcxDJ2MUC5tncCwP4Ig
+www.medium.com/@victorieum
+www.facebook.com/groups/722410018103587/
+@Victorieum1
+www.linkedin.com/company/victorieum/

@@ -1,0 +1,492 @@
+ Flypme
+ The fastest and most private accountless exchange
+ No registration
+ 50% profit sharing
+ Propose and vote
+ This document is for informational purposes only and does not constitute an offer or
+ solicitation to sell shares or securities in Flyp. me, Flypme or any related or associated
+ company and platform.
+ This document provides a comprehensive overview of Flyp. me, its business model, mission,
+ features, benefits, innovations, tokens distribution and use of funds raised through the
+ fundraiser(sometimes called"ICO"or"Crowdsale").
+ Abstract
+ A crypto-to-crypto exchange that is truly private and doesn't require any registration can
+ enable trading for users who are conscious ab out their privacy and the safety of their funds.
+ By providing 50% profit sharing, enabling participatory policy-making, rewarding adoption o
+ the exchange and fostering permissionless innovation via its API, Flyp. me can rebalance the
+ power between users of an exchange and the exchange itself.
+ Available immediately, the exchange can be accessed on the Flyp me website.
+ Table of contents
+ Introductio…
+ The team...........................
+.3
+ Current issues with exchanges....
+ Technical barriers…
+5
+ Privacy.....
+ Security of fun………
+5
+ Limited number of trading pairs...
+6
+ Degraded service....
+6
+ Rates........
+ Flyp. me exchange overview......
+……
+ Flypme business model..........
+7
+ Flyp.me benefits and features..
+ Accountless experience........
+.7
+ Uncompromised privacy............................
+ Fastest speed...
+8
+8
+ Profit sharing...
+.8
+ Participatory policy-making.....
+8
+…
+ Transparency and accountability....................
+9
+ Permissionless API..m...
+ Innovations...........................
+ Decentralized asset platforms......10
+ 2nd layer solutions..........
+10
+ Atomic exchanges.
+ Cryptographic auditing. 1
+ Adoption-based rewards....
+10
+ FYP tokens distribution.... ..mmm..11
+ Use of funds.....
+12
+ Engineering.. " . ....
+1
+r
+ Legal services........13
+ Communications and marketing....... .....13
+ Business development and strategic partnerships.. m........13
+ Roadmap.
+ Introduction
+ Multiple organisations -including the World Economic Forum -have published research
+ predicting the rise of blockchain adoption and its role as an emerging technology disrupting
+ major industries worldwide. In particular, Moody's Investors Servicel has identified financial
+ institutions as having 7 of the top 25 blockchain use cases including trade finance, peer-to-
+ peer transactions and international payments.
+ Since the beginning of 2017, cryptocurrencies and tokens have grown from 771 to 1,104
+ (+43%)2 and their market cap has spiked from $16 billion to $143 billion driven by an
+ increase in institutional and retail investors. Exchanges have seen their combined volumes
+ (and consequently profits) increase rapidly to $8 billion on 18tAugust 2017. Such growth in
+ capital inflow, diversification across multiple cryptos and retail investors'interest create
+ demand for a crypto to crypto exchange that is not only fast and private, but also easy-to-
+ use and visually appealing.
+ While merchants are adopting payments in cryptocurrencies they are mostly confined to
+ accepting Bitcoin thus limiting their ability to seize the increasing user base of other cryptos,
+ now worth more than $60 billion combined. This fast developing space is where Flyp.me's
+ mission and value proposition play a significant role through its permissionless API for multi-
+ currency payments, profit sharing and participatory policy-making, including proposing and
+ voting for new features.
+ The team
+ Flyp. me is the brainchild of the current team at HolyTransaction, the first web wallet to
+ support Ethereum, one of the first multi-currency wallets and the oldest still active.Holy
+T
+ Transaction has experienced growth of +,000% in the first 6 months of 2017.
+ Francesco Simonetti, CEO of Flyp. me and Holy Transaction, has been active in the crypto
+ community since 2013 after founding the Bitcoin meet up in Rome. He is a founding
+ member of the Blockchain Education Network ltalia-a non-profit organization born to
+ promote the growth and diffusion of blockchain technology -co-founder of the Bitcoin
+ Foundation Italia and of Assobit.
+ Currently, 6 professionals from different backgrounds work at Flyp me full-time and others
+ are contracted part-time, when and if needed. Considering the nature of our business, we
+ don't deem it safe to publish the full list of team members, because this can expose them to
+ the risk of personal attacks and possible corruption from external actors.
+ 1 Moody's Investor Services: Credit Strategy-Blockchain Technology: Robust, Cost-effective Applications Key
+ to Unlocking Blockchain's Potential Credit benefits, 2016 https: //www.moodys.
+ Blockchain-can-bring-benefits-to-the-financial-ino 352414
+ 2coinmarketcap, 2017 https: //coinmarketcap. com/assets/views/all/
+3
+ Current issues with exchanges
+ All but one exchange require different tiers of personal information to be able to trade-
+ including email, full name, passport picture and proof of address. Revealing this information
+ greatly decreases the privacy of users and exposes them to risks such as targeted crime,
+ fraud and identity theft.
+ Additionally, the majority of exchanges require crypto to be deposited in the exchange's
+ account before the user can perform a transaction. This slows down the process for the user.
+ Exchanges share several downsides including but not limited to:
+ Technical barriers
+ Rates
+ Privacy
+ Degraded service
+ Security of funds
+ Limited number of
+ trading pairs
+ Figure 1: Current issues
+ Technical barriers
+ Most exchanges require a medium to high level of technical knowledge and understanding
+ of exchange dynamics and are not being designed to cater to the growing number of entry-
+ level users.
+ Privacy
+ While some exchanges claim to respect users'privacy by not requesting any information that
+ is unnecessary, they obtain information about users through other means-including web
+ analytics, customer service software, marketing automation platforms and email marketing
+ services. This is often called identity inference through digital fingerprinting.
+ Through these means data is willingly stored and shared with third parties:
+ Users' location information including IP address GPS and other sensors that may, for
+ example, allow the service provider to access information on nearby devices, Wi-Fi
+ access points and mobile towers.
+ Users'operating system, browser ID, browsing activity, and other information about
+ how they interacted with the exchange or with other websites.
+ The language they speak, which ads they'll find most useful, the people who matter
+ most to them online and which YouTube videos they might like.
+ Those services might also be able to link users' transactions to their name, email
+ address, telephone number or credit card.
+ Device-specific information such as hardware model, operating system version,
+ unique device identifiers, and mobile network information.
+ Log information including details of how they used their service, such as search
+ queries, telephony log information, calling-party number, forwarding numbers,time
+ and date of calls, duration of calls, SMS routing information and types of calls,
+ cookies that may uniquely identify their browser or the user activity on the web,
+ including their ads_ids and other unique identifiers.
+ Security of funds
+ Funds need to be deposited in the exchanges account address prior to the user being able
+ to trade. This means more time is needed to perform an exchange due to the waiting time
+ for deposits. Also, the users funds are at greater risk because they are held by an exchange
+ which controls the users private keys.
+ Limited number of trading pairs
+ Tradable crypto pairs are limited to the ones offered by each exchange. Depending on which
+ pair a user wants to trade, it is necessary to use a different exchange which requires longer
+ to either set up or access as opposed to using a single service.
+ 3'Steven Goldfeder, Harry Kalodner, Dillon Reisman Arvind Narayanan: When the cookie meets the blockchain:
+ Privacy risks of web payments via cryptocurrencies https: //arxiv. org/pdf/1708.04748.pdf
+ Degraded service
+ Partial or complete outages frequently affect exchanges, individually and simultaneous.
+ Often, the resulting degraded services, affect several user types including API and website
+ users.
+ Rates
+ Trading pair rates and withdrawal fees differ greatly from exchange to exchange resulting in
+ a lack of choice for users unless they have accounts on multiple exchanges.
+ Flyp. me exchange overview
+ Flyp. me is the fastest and most private crypto-to-crypto exchange which doesn't require any
+ registration. The only information needed to use the exchange is the users crypto address
+ so that Flyp me has the correct input and output to perform and finalize the transaction.
+ Only minimal trust is needed since Flyp. me doesn't hold users' funds nor the private keys.
+ Flyp.me sends the amount exchanged back to the user as soon as the user's transaction is
+ confirmed on the blockchain. This is because Flyp me keeps its own reserve funds for each
+ cryptocurrency and token supported which enable the exchange to happen instantly.
+ Flyp. mes competitive exchange rates are determined the moment the deposit is sent, unlike
+ other exchanges. This guarantees users get the precise amount of cryptocurrencies and
+ tokens they have requested at the exact time they send the order. The exchange rates
+ applied are based on the average rates of other exchanges, market depth of the chosen pair
+ and reserve funds.
+ User chooses
+ crypto and amount
+ Funds are
+ to exchange and
+ User sends funds
+ I confirmed on the
+ Chosen crypto is
+ blockchain
+ I sent to the user
+ inserts destination
+ address
+ Figure 2: User journey
+ Flyp me business model
+ The exchange of cryptocurrencies and tokens is one of only a few business models in the
+ crypto space that makes a consistent and reliable profit, regardless of the pricing or
+ performance of any specific crypto and token in the market.
+ Over the last few months this space has seen increasing interest with record level of users
+ and trading volumes, which greatly impacted the performance of all exchanges due to
+ complete or partial outages. Considering the recent levels of volatility in the crypto market,
+ slow or unresponsive exchanges can have devastating consequences for traders. Moreover,
+ the growing nur
+ number of entry-level users acquiring crypto is in need of exchange services
+ which don'trequire a medium to high level of technical knowledge.
+ Flyp.me solves these and other problems by providing an exchange service that is easy-to-
+ use and visually appealing while leveraging a number of other exchanges to perform
+ transactions and secure the best rates for different trading pairs. Exchanges via Flyp me are
+ so fast because Flyp me keeps its own reserve funds for each cryptocurrency and token
+ supported which enable the exchange to happen instantly.
+ Flyp.mes revenue is driven by exchange rates charged on Flyp.me and through the strategic
+ partners that are integrating the Flyp me APl to accept multi-currency payments.
+ Current exchange rates, while being competitive, are not final. They will be decided
+ following the ICO and voted by FYP Token owners to find an optimum balance between
+ driving the adoption of Flypme and maximizing the generation of profits.
+ Flyp.me operates in the accountless exchange industry which currently sees an average of
+ E250 million traded monthly. This is set to increase exponentially as the market matures.
+ The table below is for exemplary purposes only and does not constitute a prospectus. Please
+ refer to the terms of token  sale https: //flyp.me/saleterms and tos https://flyp.me/tos.
+ Sample scenarios of business growth and sustainability
+ Description
+%
+2018
+2019
+2020
+2021
+ World foreseen Monthly Market in
+500,000,00750,000,001,000,000,001,250,000,00
+ Euro(*)
+0
+0
+0
+0
+flyp. me foreseen Market Share10%50000,000112,500,00225,000,000437,500,000
+0
+35%
+ Exchange rate earned by Flyp me*)2%1000,0002,250,0004.500008.750,000
+ Monthly amount distributed to Token 50%500,00 4, 375,000
+ Owners(***)
+ * market-sector volume data: https://www.coindesk.com/3-reasons-th-
+ market-is-maturing/
+ * Exchange rates applied are just an example and numbers do not include fees from APl's use and other
+ possible revenue streams.
+ FY
+ P Tokens number will remain fixed. After the ICo, no additional FYP tokens will be created for any reason
+ whatsoever.
+ Flyp. me benefits and features
+ In line with its mission of becoming the leading accountless exchange, Flyp. me has built-in
+ profit sharing mechanisms, adoption-based rewards, a permissionless APl and participatory
+ policy-making including proposing and voting for new features. Available immediately, the
+ exchange can be accessed on the Flyp me website.
+ Flyp. me is built on six main pillars:
+ . Accountless experience
+ Uncompromised privacy
+ Fastest speed
+ Profit sharing
+ Participatory policy-making
+ Transparency and accountability
+ Permissionless API
+ Accountless experience
+ Flyp.me doesn't require any registration, email or identity verification, doesnt store users'IP
+ address and doesn't track their activities in any way. Flyp me doesn't hold users'funds
+ beyond the time of the transaction being executed.
+ Uncompromised privacy
+ Flyp.me doesn't request and doesn't obtain information about users including through
+ means such as web analytics, customer service software, marketing automation platforms
+ and email marketing services. Unlike other exchanges, Flyp. me will not give away data
+ voluntarily to any third party.
+ Private by design, Flyp me stores input and output address of every exchange and the
+ amount changed. After the ICO, Flyp. me will anonymize these logs on a periodical basis, in
+ accordance with applicable regulations. This is part of Flyp.me's"data minimisation
+â€�
+ strategy.
+ To detect if the servers are under attack for any reason, Flyp me keeps user agent,IP,access
+ URL and referrer URL. These logs are purged on a weekly basis.
+ Fastest speed
+ Flyp. me is committed to delivering the fastest crypt-to-crypto exchange while providing an
+ easy-to-use service which removes all technical barriers. Flyp me performs and finalizes
+ exchanges as fast as the time it takes for the cryptocurrency chosen to confirm safely on the
+ blockchain.
+ Flyp.me has reduced to the minimum the number of clicks required to perform transactions
+ and removed unnecessary Javascript animations to ensure the site's performance is at its
+ highest.
+8
+ Profit sharing
+ A system has been designed to distribute 50% of profits from the fees generated by the
+ exchange referred as the payout.
+ Every three months, the profits will be distributed to FYP Token owners in proportion to
+ their ownership of Tokens. The payout will be sent in ETH by default. However, Token owners
+ will be able to request payouts in other cryptos supported by Flyp. me.
+ Following the first two payouts, the timing of the payout will be voted by the Token owners
+ in line with Flyp mes commitment to participatory policy-making.
+ All costs incurred in the running of Flyp me will be covered by the funds raised during the
+ Presale and ICo. Therefore, until Presale and ICo funds have been used, the profits will be
+ equal to the revenue. Please read"Use of funds" section for more details.
+ Following the end of the ICO, Token ownership will be freely transferable on the market.
+ Participatory policy-making
+ Participatory policy making is an approach to the overall goal of facilitating the inclusion of
+ individuals or groups in the design of policies via consultative or participatory means to
+ achieve accountability, transparency and active membership.
+ The FYP Token grants entitles its owner to propose and vote for key decisions. Each and
+ every FYP Token is divisible, equal to each other and has exactly the same qualities and
+ properties. Following the ICO, no additional FYP Tokens will be created.
+ Proposing will incur a"symbolic"FYP pledge which will subsequently be redistributed to the
+ users of the exchange. There will be a set time frame to upvote any given proposal following
+ which the most upvoted proposals will be evaluated by the Flyp me team before
+ commencing a formal voting phase.
+ The number of votes held is proportional to the number of FYP Tokens owned. Any FYP
+ owner can vote for additional cryptocurrencies and tokens, features and decisions.
+ Transparency and accountability
+ Flyp. me will publicly disclose aggregated costs and allow FYP Token owners with more than
+ 200,000 FYP to audit costs, volumes and related information to certify them for the wider
+ community. In the eventuality that no FYP Token owner requests to perform an audit,
+ Flyp. me will use the services of an independent auditor yearly.
+ Permissionless ApI
+ Flyp. me has built a permissionless APl to enable businesses and developers anywhere to
+ integrate Flyp. me with services such as e-commerce sites, multicurrency wallets, brick and
+ mortar points of sale, crypto startups at ICO stage and crypto-specific media.
+ The Flyp me team believes in the freedom to explore new technologies without seeking
+ prior approval and by providing a permissionless APl allows not only faster implementation
+ but also experimentation and permissionless innovation.
+ Following the ICO, the team will implement modules for popular coding languages to enable
+ developers to build applications using the programming language of their choice.
+ Innovations
+ Flyp. me aims to promote innovation within the crypto space and will prioritize R&D in the
+ latest technology improvements with a focus on decentralized asset platforms, 2nd layer
+ solutions for cryptocurrency networks to allow transactions to be securely routed across
+ multiple peer-to-peer networks and atomic exchanges. These improvements will ultimately
+ increase efficiencies and cut costs.
+ The Flyp me team also believes that through the promotion of innovation, the Flyp.me
+ community will become stronger and more committed. This will also help the growth of the
+ user base and drive an increase in the exchanged volumes while enabling new interesting
+ models of interaction and platform governance
+ Decentralized asset platforms
+ Flyp. me will integrate decentralized asset platforms in order to provide an even higher level
+ of privacy for users and downsize the reserve funds needed to run Flypme in its current
+ form. Additionally, as the hosting of decentralized exchanges is distributed through nodes,
+ there is no risk of server downtime.
+ 2nd layer solutions
+ Flyp.me will adopt 2nd layer solutions which enable instant off-chain transfer of the
+ ownership of different cryptocurrencies and tokens, without the need of a trusted third
+ party. These systems utilize bidirectional payment channels consisting of multi-signature
+ addresses.
+ The priority will be the implementation of the Lightning Network for sending and receiving
+ funds for the exchanges performed on Flyp me so that they will be instant, without the need
+ to wait for confirmations.
+ Atomic exchanges
+ Flyp.me will research and develop atomic exchanges in order to reduce costs and enable
+ decentralized cross-chain trading.
+ Cryptographic auditing
+ Flyp. me envisage implementing state of the art cryptographic auditing methods to provide
+ maximum transparency and accountability. These include proof of reserves, volumes and
+ profits+to avoid any potentially fraudulent activity.
+ 4olalonde: proof of solvency,  2017 http: //github. com/lalonde/proof-of-solvency
+10
+ Adoption-based rewards
+ To reward active membership and increase adoption of Flyp. me, the FYP Tokens pledged to
+ propose changes to Flyp. me and a percentage of FYP Tokens owned by Flypme willbe
+ distributed to exchange users.
+ FYP tokens distribution
+ The Flyp me Token(FYP) is an ERC-20 token and its initial distribution will be in the form of a
+ Presale and an ICO. In the process, Flyp. me will create a number of FYP Tokens according to
+ the contributions made during the Presale and ICO and the ratio applied for the creation of
+ FYP Tokens. Contributions to the Presale and ICO are accepted in BTC, ETH, LTC, DOGE,
+ DASH, FAIR, GAME, DCR, ZEC, SYS, PPC, BLK, GRC.
+ FYP Tokens will be distributed at the end of the ICO. No additional FYP Tokens will be created
+ after the end of the ICO.
+ Presale Phase I: 10th July 2017(15.00 UTC), +21%bonus, 1ETH=4840FYP
+ Presale Phase ll: 21st July 2017(15.00 UTC), +15%bonus, 1 ETH =4600 FYP
+ Presale Phase lll: 6th September 2017(15.00 UTC), +12.5%bonus, 1ETH=4500 FYP
+ Ico begins
+ 28th September 2017(15.00 UTC)
+ +10% bonus before Soft-Cap, 1ETH =4400 FYP
+ +5% bonus before Hidden-Hard-Cap, 1ETH=4200 FYP
+ ICOends
+ 21st October 2017(15.00 UTC)
+ If Hidden-Hard-Cap is reached, the ICO will end 3(three)hours after the Hidden-Hard-Cap
+ threshold is reached. The exact time for beginning and closing of the Ico period, as for the
+ time of the countdown closing, will be determined in blocks' numbers of the Ethereum
+ Blockchain. The exact block number for start and end of the ICo will be communicated
+ before the ICo commences. The three-hour countdown when the Hidden-Hard-Cap is
+ reached is counted in 700 blocks.
+ The Soft-Cap will be disclosed as the iCo goes live. The Hidden-Hard-Cap will be revealed as
+ soon as it will be reached and will trigger the 3(three)hours countdown that will definitely
+ end the ICO. Flyp. me will publish a hash of the Hard-Cap, so that anyone can check the Hard-
+ Cap hasn't been changed.
+ The percentage of FYP Tokens assigned to Flyp me itself is variable depending on whether
+ the Soft-Cap and Hidden-Hard-Cap are reached by the end of the ICO (as detailed below).
+11
+ If the Soft-Cap is not reached, 50% of FYP Tokens will be assigned to Flyp. me and 50%
+ to the Contributors.
+ If the Soft-Cap is reached but the Hidden-Hard-Cap is not, 40% of FYP Tokens will be
+ assigned to Flyp. me and 60% to the Contributors.
+ If the Hidden-Hard-Cap is reached, 30% of FYP Tokens will be assigned to Flyp. me and
+ 70% to the Contributors.
+ In order to make Flyp. me more sustainable during its evolution, the FYP Tokens assigned to
+ Flyp. me itself and retained by the Company are inversely proportional to the participation to
+ the Token sale. In other words, the more contributions to the FYP Tokens sale, the less FYP
+ Tokens will be available to Flyp. me. This mechanism and logic, besides making the project
+ more stable and sustainable, will further ignite Flyp. me's participatory policy-making model.
+ Between 0.3% and 0.7% of FYP Tokens assigned to Flypme will be reserved for bounty
+ programs to encourage early adoption, platform engagement and word-of-mouth.The
+ percentage of FYP Tokens allocated for bounty programs will vary according to the amount
+ of funds raised during the ICO.
+ Use of funds
+ Funds will be distributed across reserve funds and business funds, in relation to the amount
+ raised.
+ Please note that the profits generated by those FYP Tokens allocated to Flyp. me will be
+ reinvested in the Flyp. me service, its roadmap and to increase fur ther its reserve funds.
+ Reserve fund s:
+ Between 50% and 35% of the funds raised.
+ Business funds:
+ Between 50% and 65% of the funds raised.
+ Engineering and security (25%)
+R&D(20%)
+ Legal services(10%)
+ Communications and marketing(25%)
+ Business development and strategic partnerships(20%)
+ Engineering
+ The primary duty of Flyp. me is to ensure the seamless functionality of its service. In order to
+ do so, Flyp. me will retain the original team and, according to its needs, further expand its
+ engineering operations. This will cover maintenance, new features and proposals to scale,
+ expand and further develop the project and its infrastructure and to improve its efficiencies,
+ perform code auditing and security reviews.
+ High-priority new features include implementing new cryptocurrencies, decentralized asset
+ platforms and modules for popular programming languages. Additionally, Flypme will
+12
+ implement a proposing and voting platform for key decisions and will develop cryptographic
+ auditing.
+ Flyp.me currently partners with Holy Transaction SA, an R&D company based in Luxemburg
+ which created one of the first multi-currency wallets and the oldest still active.
+ R&D
+ Flyp. me will prioritize R&D in the latest technology improvements with a focus on
+ decentralized asset platforms, 2nd layer solutions for cryptocurrency networks to allow
+ transactions to be securely routed across multiple peer-to-peer networks, atomic exchanges
+ and cryptographic auditing. These improvements will ultimately increase efficiencies and cut
+ costs. The development team of Flyp me has a strong commitment to leveraging the latest
+ technological advantages of cryptocurrencies and reducing barriers to adoption for people.
+ Legal services
+ Flyp. me has consulted with law firms which advised the company on the legal framework
+ concerning the operations of Flyp. me and its ICo, across different jurisdictions. Flyp me will
+ contract specialist law firms in regards to regulatory and licensing frameworks as well as
+ other matters.
+ Communications and marketing
+ Flyp. me collaborates with marketing communicatio professionals both locally and remotely
+ to ensure access to the best talent pool with specialist support across a number of
+ disciplines and industries.
+ Flyp.me will promote the autonomous running of meetups across as many locations as
+ possible providing meetup organisers with operational templates and focused themes to be
+ adapted depending on geo-specific needs. We believe that building a strong community and
+ providing outstanding support will be key to growing and retaining Flyp mes user base as
+ well as increasing volumes.
+ Business development and strategic partnerships
+ Flyp.mes efforts in business development will be focused on growing existing business areas
+ aging
+ and identifying new opportunities. High growth will be boosted further by leveraging
+ strategic partnerships enabled by Flyp. mes permissionless API including:
+ E-commerce sites and brick and mortar points of sale that want to accept payments
+ in different cryptocurrencies through a plug and play application.
+ Crypto startups that want to accept a number of cryptos for their Presale and ICO
+ funding
+ Multicurrency wallets that want to allow in-wallet crypto-to-crypto exchanges.
+ Crypto data aggregators(e.g. ethereumwisdom)and crypto-specific media that want
+ to allow accountless crypto-to-crypto exchanges
+13
+ Roadmap
+ Flyp.me will be constantly developed, upgraded and expanded. Code reviews and security
+ audits will be continuously done to ensure the highest level of security, efficiency and
+ stability.
+ The next steps in Flyp mes development are geared towards increasing volumes and profits
+ improving the Flyp me community and governance and R&D in bleeding edge technology.
+ To increase volumes and profits:
+ Implement and add new cryptocurrency pairs;
+ Integrate decentralized asset platforms;
+ Implement API modules for popular programming languages to enable developers to
+ build apps using the coding language of their choice;
+ Integrate with more exchanges;
+ Interconnect with other services such as multicrypt/multiasset Point of Sale and
+ Wallet services;
+ Localize Ul and other assets;
+ Improve trading engine;
+ Design new accountless mechanics(e.g. limitless exchanges)
+ Launch mobile apps(e.g. Android).
+ To im prove the Flyp me co mmunity and governance:
+ Finalize system for profit distribution;
+ Deploy participatory policy-making mechanism;
+ Implement additional proprietary platform for proposing and voting for key
+ decisions;
+ Develop cryptographic auditing.
+ R&D in bleeding edge technology:
+ Adopt technological improvements like 2nd layer solutions;
+ Atomic exchanges.
+14

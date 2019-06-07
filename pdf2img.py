@@ -1,20 +1,30 @@
 from pdf2image import convert_from_path
-import tempfile
+import tempfile,os,time
 #安装 pip install pdf2image
 #安装 brew install poppler
 
 def pdf2images(filename, outputDir):
-    print('filename=', filename)
-    print('outputDir=', outputDir)
-    with tempfile.TemporaryDirectory() as path:
-        images = convert_from_path(filename)
-        for index, img in enumerate(images):
-            img.save('%s/page_%s.png' % (outputDir, index))
+    if not os.path.exists(outputDir):
+        os.mkdir(outputDir)
+        with tempfile.TemporaryDirectory() as path:
+            images = convert_from_path(filename)
+            for index, img in enumerate(images):
+                img.save('%s/page_%s.png' % (outputDir, index))
+
+def manypdf2images(pdfDir,outDir):
+    if not os.path.exists(outDir):
+        os.mkdir(outDir)
+    files=os.listdir(pdfDir)
+    for file in files:
+        if file.split('.')[-1] in ['pdf', 'PDF']:
+            print( time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()),file)
+            pdf2images(pdfDir+'/'+file,outDir+'/'+file.split('.')[0])
 
 
 if __name__ == "__main__":
-    pdf2images('/Users/brobear/OneDrive/data-whitepaper/DOPDF2TXT/page(1,199)_ocr/9-1-Civic.pdf', '/Users/brobear/Desktop/9-1')
-
+    # pdf2images('/Users/brobear/OneDrive/data-whitepaper/DOPDF2TXT/page(1,199)_ocr/9-1-Civic.pdf', '/Users/brobear/Desktop/9-1')
+    manypdf2images('/Users/brobear/OneDrive/data-whitepaper/DOPDF2TXT/page(200,499)_ocr',
+                   '/Users/brobear/OneDrive/data-whitepaper/DOPDF2TXT/page(200,499)_ocr_images')
 
 '''
 brew install poppler

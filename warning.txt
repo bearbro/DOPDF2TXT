@@ -1,0 +1,38 @@
+WARNING:pdfminer.converter:undefined: <PDFCIDFont: basefont='IKZFFV+GraphikLC-Regular', cidcoding='Adobe-Identity'>, 74
+
+WARNING:pdfminer.layout:Too many boxes (125) to group, skipping.
+
+WARNING:root:Parser index out of bounds
+
+WARNING:root:Invalid zlib bytes: error('Error -3 while decompressing data: incorrect header check'), b'\x98\x
+
+WARNING:root:Invalid zlib bytes: error('Error -5 while decompressing data: incomplete or truncated stream'), b''
+
+
+WARNING:root:Wrong type: None required: <class 'dict'>
+
+WARNING:root:Cannot locate objid=1355
+
+WARNING:root:Undefined Font id: /T1_5
+
+WARNING:root:No font specified!
+
+WARNING:root:PDFStream required: None
+
+WARNING:root:Literal required: New
+
+WARNING:root:Literal required: begin
+
+WARNING:root:Literal required: Sans
+
+WARNING:root:Literal required: CIDSystemInfo
+
+PDFSyntaxError
+no pdf
+
+PDFEncryptionError
+need password
+
+psparser.PSEOF
+
+

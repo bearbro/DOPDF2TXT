@@ -3,7 +3,7 @@ pdf转txt
     对文本的pdf进行txt提取
     对提取失败的pdf，按失败原因分类保存到文件夹中
 未完成
-    对pdfminer的WARNING:root未处理
+    对pdfminer的WARNING:root未处理（warning.txt）
     未对各失败情况处理
         目前的失败情况有：
             文件损害（无法打开）          不用处理
@@ -16,6 +16,9 @@ pdf转txt
 另一方法
     处理图片pdf
         OCR，使用 Convert PDF to Text Desktop Software
+        或者
+        调用百度api
+            先将PDF切成图片（pdf2img.py），然后调用api识别图片中的文字(OCR.py)
     处理文本pdf
         使用Pdfminer编写python代码
         或者
@@ -37,7 +40,7 @@ pdf转txt
                 当一页内文字行少于3行，则该页为空白页
                 当一个文件空白页数量大于10页或所占比大于50%时，该文件为空白文件
 
-        3、使用 Convert PDF to Text Desktop Software
+        3、使用 OCR.py
             输入
                 上一步产生的pdf
             输出
@@ -50,3 +53,4 @@ pdf转txt
         pillow  （p3從python圖像庫PIL分出來的 )
         imagemagick
         wand (imagemagick python 庫的接口 )
+        百度api
